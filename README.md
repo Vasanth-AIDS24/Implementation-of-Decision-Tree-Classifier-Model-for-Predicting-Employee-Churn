@@ -60,28 +60,37 @@ dt.predict([[0.5,0.8,9,206,6,0,1,2]])
 
 ## Output:
 ![decision tree classifier model](sam.png)\
+```
 DATA HEAD
+```
 <img width="1391" height="257" alt="image" src="https://github.com/user-attachments/assets/ec2661fd-fdc7-462b-b43c-a6b2504ad2d7" />
-
+```
 DATASET INFO:
+```
 <img width="498" height="362" alt="image" src="https://github.com/user-attachments/assets/2531c5fe-54e4-46e1-8d65-eb2a09ce6420" />
-
+```
 NULL DATASET:
+```
 <img width="312" height="255" alt="image" src="https://github.com/user-attachments/assets/b51eb219-dd41-439d-9a12-4a0085781e0d" />
-
+```
 Values count in left column:
+```
 <img width="312" height="97" alt="image" src="https://github.com/user-attachments/assets/2036cc58-dd46-4531-81d1-e146d6d70e9d" />
-
+```
 Dataset transformed head:
+```
 <img width="1371" height="242" alt="image" src="https://github.com/user-attachments/assets/6e117b90-757e-4709-b243-9869bec7b7a5" />
-
+```
 X.head:
+```
 <img width="1228" height="232" alt="image" src="https://github.com/user-attachments/assets/fb08b852-287b-4b60-a0cf-4a66dd66d7f3" />
-
+```
 Accuracy:
+```
 <img width="257" height="52" alt="image" src="https://github.com/user-attachments/assets/9e515205-fd67-41a8-acda-d862c41fb6c1" />
-
+```
 Data prediction:
+```
 <img width="1372" height="97" alt="image" src="https://github.com/user-attachments/assets/07f8f873-dc46-495a-8099-36fde5b62f92" />
 
 ## Result:
